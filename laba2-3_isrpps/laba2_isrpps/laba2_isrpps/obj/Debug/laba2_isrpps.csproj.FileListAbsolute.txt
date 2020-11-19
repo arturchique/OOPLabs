@@ -1,0 +1,10 @@
+C:\Users\Артур\Desktop\Лабы ООП\laba2_isrpps\laba2_isrpps\laba2_isrpps\bin\Debug\laba2_isrpps.exe.config
+C:\Users\Артур\Desktop\Лабы ООП\laba2_isrpps\laba2_isrpps\laba2_isrpps\bin\Debug\laba2_isrpps.exe
+C:\Users\Артур\Desktop\Лабы ООП\laba2_isrpps\laba2_isrpps\laba2_isrpps\bin\Debug\laba2_isrpps.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba2_isrpps\laba2_isrpps\laba2_isrpps\obj\Debug\laba2_isrpps.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba2_isrpps\laba2_isrpps\laba2_isrpps\obj\Debug\laba2_isrpps.Properties.Resources.resources
+C:\Users\Артур\Desktop\Лабы ООП\laba2_isrpps\laba2_isrpps\laba2_isrpps\obj\Debug\laba2_isrpps.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba2_isrpps\laba2_isrpps\laba2_isrpps\obj\Debug\laba2_isrpps.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba2_isrpps\laba2_isrpps\laba2_isrpps\obj\Debug\laba2_isrpps.exe
+C:\Users\Артур\Desktop\Лабы ООП\laba2_isrpps\laba2_isrpps\laba2_isrpps\obj\Debug\laba2_isrpps.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba2_isrpps\laba2_isrpps\laba2_isrpps\obj\Debug\laba2_isrpps.MainForm.resources
