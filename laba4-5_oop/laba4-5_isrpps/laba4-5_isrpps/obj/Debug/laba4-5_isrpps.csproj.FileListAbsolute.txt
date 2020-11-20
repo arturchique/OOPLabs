@@ -1,0 +1,14 @@
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\obj\Debug\laba4-5_isrpps.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\obj\Debug\laba4_5_isrpps.Form1.resources
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\obj\Debug\laba4_5_isrpps.Properties.Resources.resources
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\obj\Debug\laba4-5_isrpps.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\obj\Debug\laba4-5_isrpps.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\obj\Debug\laba4_5_isrpps.FightForm.resources
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\bin\Debug\laba4-5_isrpps.exe.config
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\bin\Debug\laba4-5_isrpps.exe
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\bin\Debug\laba4-5_isrpps.pdb
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\bin\Debug\AbstractFactory.dll
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\bin\Debug\AbstractFactory.pdb
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\obj\Debug\laba4-5_isrpps.csproj.CopyComplete
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\obj\Debug\laba4-5_isrpps.exe
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\obj\Debug\laba4-5_isrpps.pdb

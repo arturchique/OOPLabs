@@ -1,0 +1,9 @@
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.dll
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.dll
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.BoozerForm.resources
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.BumForm.resources
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.Properties.Resources.resources
+C:\Users\Артур\Desktop\OOPLabs\laba4-5_oop\laba4-5_isrpps\laba4-5_isrpps\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.GenerateResource.cache
