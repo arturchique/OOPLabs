@@ -1,0 +1,13 @@
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\bin\Debug\netcoreapp3.1\delegate_chain.exe
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\bin\Debug\netcoreapp3.1\delegate_chain.deps.json
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\bin\Debug\netcoreapp3.1\delegate_chain.runtimeconfig.json
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\bin\Debug\netcoreapp3.1\delegate_chain.runtimeconfig.dev.json
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\bin\Debug\netcoreapp3.1\delegate_chain.dll
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\bin\Debug\netcoreapp3.1\delegate_chain.pdb
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\obj\Debug\netcoreapp3.1\delegate_chain.csprojAssemblyReference.cache
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\obj\Debug\netcoreapp3.1\delegate_chain.AssemblyInfoInputs.cache
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\obj\Debug\netcoreapp3.1\delegate_chain.AssemblyInfo.cs
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\obj\Debug\netcoreapp3.1\delegate_chain.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\obj\Debug\netcoreapp3.1\delegate_chain.dll
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\obj\Debug\netcoreapp3.1\delegate_chain.pdb
+C:\Users\Артур\source\repos\delegate_chain\delegate_chain\obj\Debug\netcoreapp3.1\delegate_chain.genruntimeconfig.cache
