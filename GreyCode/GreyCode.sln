@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreyCode", "GreyCode\GreyCode.csproj", "{DE2AF7CB-517D-422A-AF19-CFFDCEFAA90F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2AF7CB-517D-422A-AF19-CFFDCEFAA90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2AF7CB-517D-422A-AF19-CFFDCEFAA90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2AF7CB-517D-422A-AF19-CFFDCEFAA90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2AF7CB-517D-422A-AF19-CFFDCEFAA90F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DBD27B3-D007-425F-AF90-F507DD0A9818}
+	EndGlobalSection
+EndGlobal

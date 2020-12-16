@@ -1,0 +1,11 @@
+C:\Users\Артур\Desktop\OOPLabs\GreyCode\GreyCode\bin\Debug\GreyCode.exe.config
+C:\Users\Артур\Desktop\OOPLabs\GreyCode\GreyCode\bin\Debug\GreyCode.exe
+C:\Users\Артур\Desktop\OOPLabs\GreyCode\GreyCode\bin\Debug\GreyCode.pdb
+C:\Users\Артур\Desktop\OOPLabs\GreyCode\GreyCode\obj\Debug\GreyCode.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\OOPLabs\GreyCode\GreyCode\obj\Debug\GreyCode.Form1.resources
+C:\Users\Артур\Desktop\OOPLabs\GreyCode\GreyCode\obj\Debug\GreyCode.Properties.Resources.resources
+C:\Users\Артур\Desktop\OOPLabs\GreyCode\GreyCode\obj\Debug\GreyCode.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\OOPLabs\GreyCode\GreyCode\obj\Debug\GreyCode.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\OOPLabs\GreyCode\GreyCode\obj\Debug\GreyCode.exe
+C:\Users\Артур\Desktop\OOPLabs\GreyCode\GreyCode\obj\Debug\GreyCode.pdb
+C:\Users\Артур\Desktop\OOPLabs\GreyCode\GreyCode\obj\Debug\GreyCode.ConditionsView.resources
